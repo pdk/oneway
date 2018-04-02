@@ -1,0 +1,1 @@
+This repo is just the source code for a medium article: https://medium.com/@phlatphrog/one-way-to-do-it-six-variations-cd58602ac06d
